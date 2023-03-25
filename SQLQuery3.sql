@@ -104,3 +104,6 @@ WHERE Inflation<>0 AND
 	GNI_per_capita<>0 AND
 	Reserve_per_capita<>0 AND
 	GDP_per_capita<>0;
+
+SELECT *
+FROM Report;
