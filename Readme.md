@@ -1,5 +1,5 @@
 <h1>World Macroeconomic Indicators</h1>
-<h3> Analysis conducted of countries through the different macroeconomic indicators using SQL</h3>
+<h3> Analysis conducted of countries through the different macroeconomic indicators using SQL.</h3>
 
 <p>Welcome to my portfolio project on data analysis using Microsoft SQL! In this project, I have collected a vast amount of data from the World Bank's websites, focusing on critical indicators such as inflation, GDP, total reserves, total debts, and GNI of different countries.
 
